@@ -99,5 +99,3 @@ echo "       Server: ${VPN_HOST}"
 echo "       Group : Vendors_and_Contractors"
 echo
 echo "=== SRC VPN Ubuntu Setup Complete ==="
-
-
