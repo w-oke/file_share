@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -euo pipefail
+set -euo
 
 VPN_HOST="srcvpn.srcinc.com"
 
@@ -99,3 +99,4 @@ echo "       Server: ${VPN_HOST}"
 echo "       Group : Vendors_and_Contractors"
 echo
 echo "=== SRC VPN Ubuntu Setup Complete ==="
+
